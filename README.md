@@ -14,4 +14,4 @@
 
 ### Author
 Vinisha Manek
-- [vinimanek@gmail.com](mailto:vinimanek@gmail.com)
+[vinimanek@gmail.com](mailto:vinimanek@gmail.com)
