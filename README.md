@@ -5,7 +5,9 @@
 ## Table of Contents
 - [Day 1](https://adventofcode.com/2023/day/1)
 - [Day 2](https://adventofcode.com/2023/day/2)
-<!-- Add more days as you progress -->
+- [Day 3](https://adventofcode.com/2023/day/3)
+- [Day 4](https://adventofcode.com/2023/day/4)
+
 
 ## Instructions
 
