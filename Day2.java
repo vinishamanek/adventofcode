@@ -66,6 +66,7 @@ public class Day2 {
     }
 
     public static void main(String[] args) {
+        
         List<Game> games = new ArrayList<>();
 
         try (BufferedReader reader = new BufferedReader(new FileReader("input.txt"))) {
